@@ -1,2 +1,3 @@
 # museum-of-candy
-Responsive website made using bootstrap.
+ https://proarj.github.io/museum-of-candy/
+ Basic responsive website made using bootstrap.
